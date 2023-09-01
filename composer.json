@@ -26,7 +26,7 @@
         }
     ],
     "require": {
-        "sentry/sentry": "dev-fix/serializer-maxdepth-update",
+        "sentry/sdk": "dev-fix/serializer-maxdepth-update",
         "http-interop/http-factory-guzzle": "^1.0",
         "symfony/http-client": "^4.3|^5.0|^6.0"
     },
